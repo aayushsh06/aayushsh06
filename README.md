@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋<br>Welcome to my GitHub! I'm Aayush, a passionate CS student who loves exploring and building innovative projects. My work focuses on web development, machine learning, and research.<br><br>🌱 I’m currently learning: React and Spring Boot<br>💡 I’m working on: Maize Market, an online marketplace designed for college students.<br>📫 Reach me at: aayushksharma2006@gmail.com
+Hi there! 👋<br>Welcome to my GitHub! I'm Aayush, a passionate CS student who loves exploring and building innovative projects. My work focuses on web development, machine learning, and research.<br><br>🌱 I’m currently learning: React and Spring Boot<br>💡 I’m working on: Maize Market, an online marketplace designed for college students to sell items <br>📫 Reach me at: aayushksharma2006@gmail.com
 
 
 # 💻 Tech Stack:
