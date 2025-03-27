@@ -19,6 +19,8 @@ Welcome to my GitHub! I'm Aayush, a passionate CS student who loves exploring an
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+![](https://github-readme-streak-stats.herokuapp.com/?user=aayushsh06&theme=dark&hide_border=false)
+
 ![](https://github-stats-rho-one.vercel.app/api/top-langs/?username=aayushsh06&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=makefile)
 
 
