@@ -21,7 +21,8 @@ Welcome to my GitHub! I'm Aayush, a passionate CS student who loves exploring an
 ---
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aayushsh06&theme=dark&hide_border=false)
 
-![](https://github-stats-rho-one.vercel.app/api/top-langs/?username=aayushsh06&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=makefile)
+![](https://github-stats-rho-one.vercel.app/api/top-langs/?username=aayushsh06&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=makefile,html,css)
+
 
 
 
