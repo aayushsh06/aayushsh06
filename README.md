@@ -3,8 +3,12 @@ Hi there! 👋
 
 Welcome to my GitHub! I'm Aayush, a passionate CS student who loves exploring and building innovative projects. My work focuses on web development, machine learning, and research.
 
-🌱 I'm currently learning: React and Spring Boot  
-💡 I'm working on: Maize Market, an online marketplace designed for college students to sell items  
+My Portfolio: http://aayush-sharma.me
+
+🌱 I'm currently learning: Express and Docker
+
+💡 I'm working on: Code Collab, an online IDE with realtime collaboration
+
 📫 Reach me at: aayushksharma2006@gmail.com
 
 # 💻 Tech Stack:
