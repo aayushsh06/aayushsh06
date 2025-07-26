@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there! 👋
 
-Welcome to my GitHub! I'm Aayush, a passionate CS student who loves exploring and building innovative projects. My work focuses on web development, machine learning, and research.
+Welcome to my GitHub! I'm Aayush, a passionate CS student who loves exploring and building innovative projects. My work focuses on full-stack development, machine learning, and research.
 
 My Portfolio: http://aayush-sharma.me
 
