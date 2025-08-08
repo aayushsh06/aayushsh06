@@ -7,7 +7,7 @@ My Portfolio: http://aayush-sharma.me
 
 🌱 I'm currently learning: Express and Docker
 
-💡 I'm working on: Code Collab, an online IDE with realtime collaboration
+💡 I'm working at Amazon
 
 📫 Reach me at: aayushksharma2006@gmail.com
 
